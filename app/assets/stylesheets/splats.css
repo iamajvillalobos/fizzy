@@ -3,6 +3,7 @@
 }
 
 .windshield {
+  align-items: center;
   background-color: var(--color-bg);
   display: flex;
   flex-wrap: wrap;
